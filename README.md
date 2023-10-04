@@ -1,2 +1,2 @@
 # Portfolio
-Portfólio de trabalhos Tech
+Portfólio de trabalhos Tech de Luana Dumas
